@@ -7,3 +7,4 @@
 Chasm07/Chasm07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I'm analytical, driven problem-solver, and hardworking who has always been interested in Developing Games.
