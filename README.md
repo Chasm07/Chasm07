@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Games
 - 🌱 I’m currently learning Python, Java, SQL, React
 - 🌱 I mainly use Unity Engine, my main language are C++ and C#
-- 💞️ All of my projects are in https://chasmportfolio.carrd.co/
+- 💞️ All of my projects are in https://chasm7portfolio.carrd.co/
 
 <!---
 Chasm07/Chasm07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
