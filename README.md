@@ -2,6 +2,7 @@
 - 👀 I’m interested in Developing Games
 - 🌱 I’m currently learning Python, Java, SQL, React
 - 🌱 I mainly use Unity Engine, my main language are C++ and C#
+- 🌱 I also have some knowledge about Web Development, using HTML, CSS, and JavaScript
 - 💞️ All of my projects are in https://chasm7portfolio.carrd.co/
 
 <!---
